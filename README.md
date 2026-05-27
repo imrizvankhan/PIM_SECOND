@@ -6,4 +6,7 @@ computed from the SECOND feature set, comprising Sharpness, Exposure, Contrast, 
 and texture (SECOND). In PIM-SECOND a conditional environmental penalty is also imposed to handle hazy degradations
 beside adaptive weights dependent on mean luminance
 <img width="1991" height="544" alt="image" src="https://github.com/user-attachments/assets/ad4429cc-00f1-46a7-a7b1-dbb7f44010fa" />
+<img width="1332" height="572" alt="image" src="https://github.com/user-attachments/assets/eac86478-831e-49b1-957b-d7aad04455f2" />
+<img width="642" height="585" alt="image" src="https://github.com/user-attachments/assets/e52a917f-9d3e-4754-9872-d41e587a4bda" />
+<img width="2638" height="2472" alt="image" src="https://github.com/user-attachments/assets/51bdaf4c-94c4-40b8-afc5-b1a40456f7f2" />
 
